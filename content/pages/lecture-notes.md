@@ -24,20 +24,239 @@ CN = Christine Ng
 
 For lectures 6-11, files are presented courtesy of the student authors and used with permission.
 
-| Lec # | TOPICS | INSTRUCTORS | LECTURE NOTES |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Phase One**{{< /td-colspan >}} ||||
-| 1 | Uncertainty  {{< br >}}  {{< br >}}The Engineer's View  {{< br >}}  {{< br >}}On the Power and the Limits of Analysis | DH, LM | ([PDF]({{< baseurl >}}/resources/lec1)) |
-| 2 | On Handling Messy Complexity | DH | ([PDF]({{< baseurl >}}/resources/lec2)) |
-| 3 | The Engineering Mindset  {{< br >}}  {{< br >}}Analysis of the Columbia Disaster | DH | &nbsp; |
-| 4 | Bureaucratic Politics  {{< br >}}  {{< br >}}Some Powerful Dumb Ideas about Politics and Policymaking | LM | &nbsp; |
-| 5 | Technological Forecasting  {{< br >}}  {{< br >}}Methods for Forecasting; Predictions for the Future; How have they Actually Worked? | JB with Prof. Chris Magee | Technology Assessment ([PDF]({{< baseurl >}}/resources/lec5_assess))  {{< br >}}Technological Forecasting ([PDF]({{< baseurl >}}/resources/lec5_forecast)) (Courtesy of Prof. Chris Magee. Used with permission.) |
-| {{< td-colspan 4 >}}**Phase Two: Structured Case Presentations**{{< /td-colspan >}} ||||
-| 6 | GPS for Selected Applications | Expert: DH  {{< br >}}Presenters: AH, AM, CN | ([PDF]({{< baseurl >}}/resources/lec6_gps)) |
-| 7 | Packet Switching for Data Communication | Expert: Dave Clark  {{< br >}}Presenters: SH, SL | &nbsp; |
-| 8 | The Minicomputer | Expert: Frank Field  {{< br >}}Presenters: KD, DF | &nbsp; |
-| 9 | Supersonic Transport (SST) | Expert: David Mindell  {{< br >}}Presenters: KD, SL, AM | ([PDF]({{< baseurl >}}/resources/lec9_sst)) |
-| 10 | Seldane to Allegra | Expert: Frank Douglas  {{< br >}}Presenters: DF, CN | &nbsp; |
-| 11 | The National Airspace System | Expert: Dava Newman  {{< br >}}Presenters: AH, SH | ([PDF - 2.2 MB]({{< baseurl >}}/resources/lec11_uav)) |
-| {{< td-colspan 4 >}}**Phase Three**{{< /td-colspan >}} ||||
-| 12 | Ubiquitous Computing: Analysis and Review of Collected Material from the Last Year | Frank Field |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Phase One**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Uncertainty  
+  
+The Engineer's View  
+  
+On the Power and the Limits of Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+DH, LM
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+On Handling Messy Complexity
+{{< tdclose >}}
+{{< tdopen >}}
+DH
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Engineering Mindset  
+  
+Analysis of the Columbia Disaster
+{{< tdclose >}}
+{{< tdopen >}}
+DH
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Bureaucratic Politics  
+  
+Some Powerful Dumb Ideas about Politics and Policymaking
+{{< tdclose >}}
+{{< tdopen >}}
+LM
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Technological Forecasting  
+  
+Methods for Forecasting; Predictions for the Future; How have they Actually Worked?
+{{< tdclose >}}
+{{< tdopen >}}
+JB with Prof. Chris Magee
+{{< tdclose >}}
+{{< tdopen >}}
+Technology Assessment ([PDF]({{< baseurl >}}/resources/lec5_assess))  
+Technological Forecasting ([PDF]({{< baseurl >}}/resources/lec5_forecast)) (Courtesy of Prof. Chris Magee. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Phase Two: Structured Case Presentations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+GPS for Selected Applications
+{{< tdclose >}}
+{{< tdopen >}}
+Expert: DH  
+Presenters: AH, AM, CN
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec6_gps))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Packet Switching for Data Communication
+{{< tdclose >}}
+{{< tdopen >}}
+Expert: Dave Clark  
+Presenters: SH, SL
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Minicomputer
+{{< tdclose >}}
+{{< tdopen >}}
+Expert: Frank Field  
+Presenters: KD, DF
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Supersonic Transport (SST)
+{{< tdclose >}}
+{{< tdopen >}}
+Expert: David Mindell  
+Presenters: KD, SL, AM
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec9_sst))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Seldane to Allegra
+{{< tdclose >}}
+{{< tdopen >}}
+Expert: Frank Douglas  
+Presenters: DF, CN
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The National Airspace System
+{{< tdclose >}}
+{{< tdopen >}}
+Expert: Dava Newman  
+Presenters: AH, SH
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 2.2 MB]({{< baseurl >}}/resources/lec11_uav))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Phase Three**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Ubiquitous Computing: Analysis and Review of Collected Material from the Last Year
+{{< tdclose >}}
+{{< tdopen >}}
+Frank Field
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

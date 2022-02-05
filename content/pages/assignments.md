@@ -25,13 +25,95 @@ CN = Christine Ng
 
 Files are presented courtesy of the student authors and used with permission.
 
-| ASSIGNMENTS | TOPICS | STUDENT WORK |
-| --- | --- | --- |
-| Paper 1 | Responses to Rescuing Prometheus | KD ([PDF]({{< baseurl >}}/resources/prometheus_kd))  {{< br >}}DF ([PDF]({{< baseurl >}}/resources/prometheus_df))  {{< br >}}SL ([PDF]({{< baseurl >}}/resources/prometheus_sl))  {{< br >}}AM ([PDF]({{< baseurl >}}/resources/prometheus_am))  {{< br >}}CN ([PDF]({{< baseurl >}}/resources/prometheus_cn)) |
-| Paper 2 | Responses to Columbia Accident Investigation | KD ([PDF]({{< baseurl >}}/resources/columbia_kd))  {{< br >}}DF ([PDF]({{< baseurl >}}/resources/columbia_df))  {{< br >}}SL ([PDF]({{< baseurl >}}/resources/columbia_sl))  {{< br >}}AM ([PDF]({{< baseurl >}}/resources/columbia_am))  {{< br >}}CN ([PDF]({{< baseurl >}}/resources/columbia_cn)) |
-| Paper 3 | Responses to Allison Reading ([PDF]({{< baseurl >}}/resources/allison)) | &nbsp; |
-| Paper 4 | Responses to Technology Assessment Readings ([PDF]({{< baseurl >}}/resources/techassess)) | SL ([PDF]({{< baseurl >}}/resources/techassess_sl)) |
-| Final Paper | Various | KD: "Can we call it Failure? Digital Equipment Corporation and the Minicomputer as an Engineering Success Story" ([PDF]({{< baseurl >}}/resources/final_kd))  {{< br >}}DF: "Policy on Emerging Technology: Roles of Individuals and Organizations Case Study Analysis" ([PDF]({{< baseurl >}}/resources/final_df))  {{< br >}}AM: "What is the Relationship between Technology and Social Values?" ([PDF]({{< baseurl >}}/resources/final_am))  {{< br >}}CN: "Making the Leap - Opportunities and Risks of Emerging Technologies" ([PDF]({{< baseurl >}}/resources/final_cn)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT WORK
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+Responses to Rescuing Prometheus
+{{< tdclose >}}
+{{< tdopen >}}
+KD ([PDF]({{< baseurl >}}/resources/prometheus_kd))  
+DF ([PDF]({{< baseurl >}}/resources/prometheus_df))  
+SL ([PDF]({{< baseurl >}}/resources/prometheus_sl))  
+AM ([PDF]({{< baseurl >}}/resources/prometheus_am))  
+CN ([PDF]({{< baseurl >}}/resources/prometheus_cn))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+Responses to Columbia Accident Investigation
+{{< tdclose >}}
+{{< tdopen >}}
+KD ([PDF]({{< baseurl >}}/resources/columbia_kd))  
+DF ([PDF]({{< baseurl >}}/resources/columbia_df))  
+SL ([PDF]({{< baseurl >}}/resources/columbia_sl))  
+AM ([PDF]({{< baseurl >}}/resources/columbia_am))  
+CN ([PDF]({{< baseurl >}}/resources/columbia_cn))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+Responses to Allison Reading ([PDF]({{< baseurl >}}/resources/allison))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper 4
+{{< tdclose >}}
+{{< tdopen >}}
+Responses to Technology Assessment Readings ([PDF]({{< baseurl >}}/resources/techassess))
+{{< tdclose >}}
+{{< tdopen >}}
+SL ([PDF]({{< baseurl >}}/resources/techassess_sl))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+Various
+{{< tdclose >}}
+{{< tdopen >}}
+KD: "Can we call it Failure? Digital Equipment Corporation and the Minicomputer as an Engineering Success Story" ([PDF]({{< baseurl >}}/resources/final_kd))  
+DF: "Policy on Emerging Technology: Roles of Individuals and Organizations Case Study Analysis" ([PDF]({{< baseurl >}}/resources/final_df))  
+AM: "What is the Relationship between Technology and Social Values?" ([PDF]({{< baseurl >}}/resources/final_am))  
+CN: "Making the Leap - Opportunities and Risks of Emerging Technologies" ([PDF]({{< baseurl >}}/resources/final_cn))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Team-based Case Presentations
 -----------------------------
