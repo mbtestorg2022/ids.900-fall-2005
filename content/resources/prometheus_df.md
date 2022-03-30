@@ -4,6 +4,7 @@ description: This resource contains information about the response paper by Diet
   Falkenthal on the book Rescuing Prometheus.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/8de610d1022b9cf0690b8dd2c9323355_prometheus_df.pdf
 file_type: application/pdf
+parent_uid: 71206073-f4c7-32b8-9343-b780baf56b1f
 resourcetype: Document
 title: prometheus_df.pdf
 uid: 8de610d1-022b-9cf0-690b-8dd2c9323355

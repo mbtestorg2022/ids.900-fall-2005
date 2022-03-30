@@ -4,6 +4,7 @@ description: This resource contains the response paper by Spencer L. Lewis on th
   book Rescuing Prometheus.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/f0e71f5f3155d899cbefc62dd92f2e1e_prometheus_sl.pdf
 file_type: application/pdf
+parent_uid: 71206073-f4c7-32b8-9343-b780baf56b1f
 resourcetype: Document
 title: prometheus_sl.pdf
 uid: f0e71f5f-3155-d899-cbef-c62dd92f2e1e

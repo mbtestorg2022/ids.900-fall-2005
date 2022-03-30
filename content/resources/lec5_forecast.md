@@ -5,6 +5,7 @@ description: This resource contains information about the technological forecast
   matrix, technological and other determinisms and learning objectives.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/e766647c966611d983b08f15808709ad_lec5_forecast.pdf
 file_type: application/pdf
+parent_uid: e98b3633-1c45-6664-6184-552789b87a52
 resourcetype: Document
 title: lec5_forecast.pdf
 uid: e766647c-9666-11d9-83b0-8f15808709ad

@@ -7,6 +7,7 @@ description: This resource contains information about the seven sides to the nuc
   and policy options.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/fd4f1ea0f3265c104fd9a9a42dfa0a26_ota_nuclear.pdf
 file_type: application/pdf
+parent_uid: f602c3b6-329b-0575-8ec3-191eea23e3e8
 resourcetype: Document
 title: ota_nuclear.pdf
 uid: fd4f1ea0-f326-5c10-4fd9-a9a42dfa0a26

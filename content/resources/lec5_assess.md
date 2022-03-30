@@ -4,6 +4,7 @@ description: This resource contains information about the history, types, purpos
   and methods of technology assessment as given in the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/c7a3b607a9e1f1bf2f5fbc0fdac2325b_lec5_assess.pdf
 file_type: application/pdf
+parent_uid: e98b3633-1c45-6664-6184-552789b87a52
 resourcetype: Document
 title: lec5_assess.pdf
 uid: c7a3b607-a9e1-f1bf-2f5f-bc0fdac2325b
